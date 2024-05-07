@@ -7,8 +7,24 @@ article.page {
     width: 100% !important;
 }
 
+.feature__wrapper {
+    text-align: center;
+}
 
+.feature__item {
+    float: none !important;
+    display: inline-block !important;
+}
+.archive__item {
+
+    vertical-align: top;
+}
 .archive__item-teaser {
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+
+
     max-width: 300px;
     overflow: hidden;
     max-height: 100% !important;
